@@ -1,15 +1,33 @@
 ### Hi,This is cnxianyi
-> 2022年10月5日后的提交将会使用GPG签名,在此之前的提交为 **未验证(Unverified)** 是正常的,但在此日期后的 **未验证(Unverified)** 提交则不可信 \
-> 如果发现2022年10月5日后的不可信提交,请在 **cnxianyi** 仓库提issues或通过邮件联系我
 
-啥都会一点,但啥都不精通,写代码基本靠面向文档和搜索引擎的摆烂人 \
+啥都会一点,但啥都不精通,写代码基本靠面向文档和chatGpt的摆烂人
 
-正在学习 \
-![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript) ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js) ![](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js) ![](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+## 正在学习
 
-计划学习 \
-![](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white) ![](https://img.shields.io/badge/-kotlin-orange?style=flat-square&logo=Kotlin) ![](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-c0ebd?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![UniApp](https://img.shields.io/badge/-UniApp-0078D6?style=flat-square&logo=uniapp)
+![ArkTS](https://img.shields.io/badge/-ArkTS-2C2255?style=flat-square&logo=arkts)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 计划学习
+
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white) 
 
 
-![](https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true) \
+![cnxianyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html) 
