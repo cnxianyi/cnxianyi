@@ -31,3 +31,5 @@
 ![cnxianyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html) 
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
