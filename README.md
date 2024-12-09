@@ -27,9 +27,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white) 
 
+![cnxianyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html)
 
-![cnxianyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html) 
-
-![Visitor Count](https://profile-counter.glitch.me/cnxianyi/count.svg)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=xxxxxxxyy&width=466)](https://www.last.fm/user/xxxxxxxyy)
