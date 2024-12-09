@@ -32,4 +32,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html) 
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/cnxianyi/count.svg)
