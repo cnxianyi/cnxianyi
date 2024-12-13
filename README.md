@@ -2,8 +2,8 @@
 
 啥都会一点,但啥都不精通,写代码基本靠面向文档和chatGpt的摆烂人
 
-## 正在学习
-[![wakatime](https://wakatime.com/badge/user/aa12be09-133d-4f25-b5d3-451514682b2d.svg)](https://wakatime.com/@aa12be09-133d-4f25-b5d3-451514682b2d)
+## 正在学习 [![wakatime](https://wakatime.com/badge/user/aa12be09-133d-4f25-b5d3-451514682b2d.svg)](https://wakatime.com/@aa12be09-133d-4f25-b5d3-451514682b2d)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=vue.js)
@@ -16,6 +16,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-A1D7F5?style=flat-square&logo=go)
 
 ## 计划学习
 
