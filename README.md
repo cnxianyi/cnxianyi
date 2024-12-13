@@ -30,3 +30,15 @@
 ![cnxianyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html)
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=xxxxxxxyy&width=466)](https://www.last.fm/user/xxxxxxxyy)
+
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/2329b94cb29ce7a5d48d697f674e0254" target="_blank">📊 每周工作报告</a>
+```text
+JavaScript 🕓 21h18m ███████████████▋░░░░░░░░░░░ 57.1%
+Vue.js     🕓 4h2m   ██▉░░░░░░░░░░░░░░░░░░░░░░░░ 11.0%
+Go         🕓 3h40m  ██▋░░░░░░░░░░░░░░░░░░░░░░░░ 10.0%
+Markdown   🕓 2h11m  █▌░░░░░░░░░░░░░░░░░░░░░░░░░  6.0%
+JSON       🕓 1h59m  █▍░░░░░░░░░░░░░░░░░░░░░░░░░  5.4%
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- waka-box end -->
