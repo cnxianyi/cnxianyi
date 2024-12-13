@@ -3,7 +3,7 @@
 啥都会一点,但啥都不精通,写代码基本靠面向文档和chatGpt的摆烂人
 
 ## 正在学习
-
+[![wakatime](https://wakatime.com/badge/user/aa12be09-133d-4f25-b5d3-451514682b2d.svg)](https://wakatime.com/@aa12be09-133d-4f25-b5d3-451514682b2d)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=vue.js)
@@ -27,8 +27,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white) 
 
-![cnxianyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html)
+<div>
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true" 
+     alt="cnxianyi's GitHub stats" 
+     style="width: 39%; height: auto;"></div>
+  <img src="https://lastfm-recently-played.vercel.app/api?user=xxxxxxxyy&width=300" alt="My Last.fm" >
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=xxxxxxxyy&width=466)](https://www.last.fm/user/xxxxxxxyy)
+  
+  
+</div>
 
-<script src="https://gist.github.com/cnxianyi/2329b94cb29ce7a5d48d697f674e0254.js"></script>
