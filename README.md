@@ -32,7 +32,7 @@
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true" 
      alt="cnxianyi's GitHub stats" 
-     style="width: 42%; height: auto;"></div>
+     style="width: 50%; height: auto;"></div>
   <img src="https://lastfm-recently-played.vercel.app/api?user=xxxxxxxyy&width=300" alt="My Last.fm" >
 
   
