@@ -17,6 +17,7 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-A1D7F5?style=flat-square&logo=go)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 计划学习
 
@@ -24,7 +25,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white) 
 
