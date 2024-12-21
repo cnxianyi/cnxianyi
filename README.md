@@ -28,7 +28,10 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white) 
+![rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 
 <div>
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html" alt="Top Languages">
