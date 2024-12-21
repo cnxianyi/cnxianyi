@@ -18,6 +18,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-A1D7F5?style=flat-square&logo=go)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
+
 
 ## 计划学习
 
