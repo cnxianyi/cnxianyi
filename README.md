@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true" 
      alt="cnxianyi's GitHub stats" 
      style="width: 47%; height: auto;"></div>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=erxuvcgy91dls1r3v5qtnuosh" alt="Spotify" >
+<!--   <img src="https://spotify-recently-played-readme.vercel.app/api?user=erxuvcgy91dls1r3v5qtnuosh" alt="Spotify" > -->
 
   
   
