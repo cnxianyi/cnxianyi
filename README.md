@@ -1,6 +1,6 @@
 ### Hi,This is cnxianyi
 
-啥都会一点,但啥都不精通,写代码基本靠面向文档和chatGpt的摆烂人
+codex额度代替大脑思考
 
 ## 正在学习 [![wakatime](https://wakatime.com/badge/user/aa12be09-133d-4f25-b5d3-451514682b2d.svg)](https://wakatime.com/@aa12be09-133d-4f25-b5d3-451514682b2d)
 
@@ -19,10 +19,6 @@
 ![Go](https://img.shields.io/badge/-Go-A1D7F5?style=flat-square&logo=go)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
-
-
-## 计划学习
-
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -33,14 +29,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 
-<div>
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnxianyi&layout=compact&hide=html" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=cnxianyi&show_icons=true&include_all_commits=true&count_private=true" 
-     alt="cnxianyi's GitHub stats" 
-     style="width: 47%; height: auto;"></div>
-<!--   <img src="https://spotify-recently-played-readme.vercel.app/api?user=erxuvcgy91dls1r3v5qtnuosh" alt="Spotify" > -->
+## 计划学习
 
-  
-  
-</div>
-
+AI会不就是我会吗
